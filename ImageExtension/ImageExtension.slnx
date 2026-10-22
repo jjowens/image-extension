@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ImageExtensionTests/ImageExtensionTests.csproj" Id="3ae9cff5-b943-41bc-b3ac-221405039969" />
+  <Project Path="ImageExtension.csproj" Id="426c05ff-2738-467d-88d6-6bd145a5e2d0" />
+</Solution>
